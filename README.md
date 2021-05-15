@@ -1,1 +1,2 @@
 # ICS2O-Unit3-04-Go-User_Input
+[![GitHub's Super Linter](https://github.com/Infinity-deGuzman/ICS2O-Unit3-04-Go-User_Input/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Infinity-deGuzman/ICS2O-Unit3-04-Go-User_Input/actions)
